@@ -10,6 +10,13 @@
 	width: 33.33%;
 }
 
+.grid:after {
+	content: "";
+	display: table;
+	clear: both;
+}
+
+/* Button to change width of grid with javascript*/
 #changeWidth {
 	position: fixed;
 	bottom: 0;
