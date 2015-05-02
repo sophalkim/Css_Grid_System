@@ -9,3 +9,12 @@ function randomMove() {
 	button1.style.top = Math.random() * 800 + 'px';
 	button1.style.left = Math.random() * 1500 + 'px';
 }
+
+function toggleButton() {
+	var buttonVisible = document.getElementById('x');
+	if (buttonVisible.style.visibility == "visible") {
+		buttonVisible.style.visibility = "hidden";
+	} else {
+		buttonVisible.style.visibility = "visible";
+	}
+}
