@@ -18,3 +18,8 @@ function toggleButton() {
 		buttonVisible.style.visibility = "visible";
 	}
 }
+
+(function() {
+	var textHidden = document.getElementById('selfFunction');
+	textHidden.style.visibility = "visible";
+})();
