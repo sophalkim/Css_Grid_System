@@ -1,6 +1,10 @@
 function changeWidth() {
 	var column1 = document.getElementById('column1');
-	column1.style.width = "50%";
+	if (column1.style.width == "45%") {
+		column1.style.width = "25%";
+	} else {
+		column1.style.width = "45%";
+	}
 }
 
 function randomMove() {

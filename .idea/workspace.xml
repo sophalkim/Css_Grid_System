@@ -3,7 +3,7 @@
   <component name="ChangeListManager">
     <list default="true" id="7deb78b2-a4a7-486c-be42-f40d455fba54" name="Default" comment="">
       <change type="MODIFICATION" beforePath="$PROJECT_DIR$/Css_Grid_System.html" afterPath="$PROJECT_DIR$/Css_Grid_System.html" />
-      <change type="MODIFICATION" beforePath="$PROJECT_DIR$/css/template.css" afterPath="$PROJECT_DIR$/css/template.css" />
+      <change type="MODIFICATION" beforePath="$PROJECT_DIR$/scripts/template.js" afterPath="$PROJECT_DIR$/scripts/template.js" />
     </list>
     <ignored path="Css_Grid_System.iws" />
     <ignored path=".idea/workspace.xml" />
@@ -24,11 +24,11 @@
   </component>
   <component name="FileEditorManager">
     <leaf>
-      <file leaf-file-name="Css_Grid_System.html" pinned="false" current-in-tab="true">
+      <file leaf-file-name="Css_Grid_System.html" pinned="false" current-in-tab="false">
         <entry file="file://$PROJECT_DIR$/Css_Grid_System.html">
           <provider selected="true" editor-type-id="text-editor">
-            <state vertical-scroll-proportion="0.58285713">
-              <caret line="33" column="46" selection-start-line="33" selection-start-column="46" selection-end-line="33" selection-end-column="46" />
+            <state vertical-scroll-proportion="-5.9305553">
+              <caret line="35" column="54" selection-start-line="35" selection-start-column="54" selection-end-line="35" selection-end-column="54" />
               <folding>
                 <element signature="n#style#0;n#button#0;n#body#0;n#html#0;n#!!top" expanded="true" />
                 <element signature="n#style#0;n#h1#2;n#body#0;n#html#0;n#!!top" expanded="true" />
@@ -37,10 +37,10 @@
           </provider>
         </entry>
       </file>
-      <file leaf-file-name="template.css" pinned="false" current-in-tab="false">
+      <file leaf-file-name="template.css" pinned="false" current-in-tab="true">
         <entry file="file://$PROJECT_DIR$/css/template.css">
           <provider selected="true" editor-type-id="text-editor">
-            <state vertical-scroll-proportion="0.0">
+            <state vertical-scroll-proportion="0.6016151">
               <caret line="111" column="14" selection-start-line="111" selection-start-column="14" selection-end-line="111" selection-end-column="14" />
               <folding />
             </state>
@@ -51,7 +51,7 @@
         <entry file="file://$PROJECT_DIR$/scripts/template.js">
           <provider selected="true" editor-type-id="text-editor">
             <state vertical-scroll-proportion="0.0">
-              <caret line="23" column="41" selection-start-line="23" selection-start-column="41" selection-end-line="23" selection-end-column="41" />
+              <caret line="7" column="1" selection-start-line="7" selection-start-column="1" selection-end-line="7" selection-end-column="1" />
               <folding />
             </state>
           </provider>
@@ -65,8 +65,8 @@
   <component name="IdeDocumentHistory">
     <option name="CHANGED_PATHS">
       <list>
-        <option value="$PROJECT_DIR$/scripts/template.js" />
         <option value="$PROJECT_DIR$/css/template.css" />
+        <option value="$PROJECT_DIR$/scripts/template.js" />
         <option value="$PROJECT_DIR$/Css_Grid_System.html" />
       </list>
     </option>
@@ -242,27 +242,27 @@
     <entry file="file://$PROJECT_DIR$/scripts/template.js">
       <provider selected="true" editor-type-id="text-editor">
         <state vertical-scroll-proportion="0.0">
-          <caret line="23" column="41" selection-start-line="23" selection-start-column="41" selection-end-line="23" selection-end-column="41" />
-          <folding />
-        </state>
-      </provider>
-    </entry>
-    <entry file="file://$PROJECT_DIR$/css/template.css">
-      <provider selected="true" editor-type-id="text-editor">
-        <state vertical-scroll-proportion="0.0">
-          <caret line="111" column="14" selection-start-line="111" selection-start-column="14" selection-end-line="111" selection-end-column="14" />
+          <caret line="7" column="1" selection-start-line="7" selection-start-column="1" selection-end-line="7" selection-end-column="1" />
           <folding />
         </state>
       </provider>
     </entry>
     <entry file="file://$PROJECT_DIR$/Css_Grid_System.html">
       <provider selected="true" editor-type-id="text-editor">
-        <state vertical-scroll-proportion="0.58285713">
-          <caret line="33" column="46" selection-start-line="33" selection-start-column="46" selection-end-line="33" selection-end-column="46" />
+        <state vertical-scroll-proportion="-5.9305553">
+          <caret line="35" column="54" selection-start-line="35" selection-start-column="54" selection-end-line="35" selection-end-column="54" />
           <folding>
             <element signature="n#style#0;n#button#0;n#body#0;n#html#0;n#!!top" expanded="true" />
             <element signature="n#style#0;n#h1#2;n#body#0;n#html#0;n#!!top" expanded="true" />
           </folding>
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/css/template.css">
+      <provider selected="true" editor-type-id="text-editor">
+        <state vertical-scroll-proportion="0.6016151">
+          <caret line="111" column="14" selection-start-line="111" selection-start-column="14" selection-end-line="111" selection-end-column="14" />
+          <folding />
         </state>
       </provider>
     </entry>
